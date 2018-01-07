@@ -13,6 +13,6 @@ TODO: Firefox version
 
 TODO: Investigate a rare example of a different UI loading resulting in creating another objects that use the same name, class, etc. and can disrupt the code
 
-TODO: Implement another test based on comparing the linked we get from browser address bar directly and the one that's in the code
+TODO: Implement another test based on comparing the linked we get from browser address bar directly and the one that's in the code (in progress, list of items is already being saved)
 
 TODO: Implement a check that looks over two lists to see if the items are the same but in a different order or if they're different items
