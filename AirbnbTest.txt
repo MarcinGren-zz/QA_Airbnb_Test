@@ -1,0 +1,32 @@
+GM Time of the test: Sun, 07 Jan 2018 13:50:08 GMT
+First test - compare all offers after going to another page (Become a Host Button)
+Result: Test Failed!
+First List Length: 18
+Second List Length: 18
+First List: ['Cosy and quiet apartment next to the Augarten', 'Nice and cozy apartment for 2', 'Cozy studio apartment near Schönbrunn', 'Little Appartment Vienna', 'PINK & ROSA IN THE HISTORICAL CITY CENTER', 'Sophie´s Place', 'Essential Bright Room in the City Center', 'Steiner Residences Apt. Monet (14)', "George's flat", 'Steiner Residences Apt. Picasso (13)', 'Gemütliche Wohnung Nähe Brunnenmarkt', 'Central Quiet Room', 'Bright & Cozy Room near Hauptbahnhof', 'Cosy room in city center #1', 'Cosy room in hipster neighbourhood', 'Central apartment near Opera', 'Spacious 20m2 Room In Top Location', 'ROSA & PINK IN THE HISTORICAL CITY CENTER']
+Second List: ['Nice and cozy apartment for 2', 'Cosy and quiet apartment next to the Augarten', 'Little Appartment Vienna', 'PINK & ROSA IN THE HISTORICAL CITY CENTER', 'Steiner Residences Apt. Monet (14)', 'Cozy studio apartment near Schönbrunn', "George's flat", 'Oasis', 'Essential Bright Room in the City Center', 'Cosy room in city center #1', 'Steiner Residences Apt. Picasso (13)', 'Sophie´s Place', 'Central Quiet Room', 'Centrally located room in Vienna', 'A nice apartment near the centre #2', 'Great Stuido in the Green Heart of Vienna (49)', 'Modern Loft near Naschmarkt', "Private Room close 2 University & Vienna's Center"]
+
+GM Time of the test: Sun, 07 Jan 2018 13:50:16 GMT
+Second test - compare all offers after refreshing a webpage
+Result: Test Passed!
+First List Length: 18
+Second List Length: 18
+First List: ['Nice and cozy apartment for 2', 'Cosy and quiet apartment next to the Augarten', 'Little Appartment Vienna', 'PINK & ROSA IN THE HISTORICAL CITY CENTER', 'Steiner Residences Apt. Monet (14)', 'Cozy studio apartment near Schönbrunn', "George's flat", 'Oasis', 'Essential Bright Room in the City Center', 'Cosy room in city center #1', 'Steiner Residences Apt. Picasso (13)', 'Sophie´s Place', 'Central Quiet Room', 'Centrally located room in Vienna', 'A nice apartment near the centre #2', 'Great Stuido in the Green Heart of Vienna (49)', 'Modern Loft near Naschmarkt', "Private Room close 2 University & Vienna's Center"]
+Second List: ['Nice and cozy apartment for 2', 'Cosy and quiet apartment next to the Augarten', 'Little Appartment Vienna', 'PINK & ROSA IN THE HISTORICAL CITY CENTER', 'Steiner Residences Apt. Monet (14)', 'Cozy studio apartment near Schönbrunn', "George's flat", 'Oasis', 'Essential Bright Room in the City Center', 'Cosy room in city center #1', 'Steiner Residences Apt. Picasso (13)', 'Sophie´s Place', 'Central Quiet Room', 'Centrally located room in Vienna', 'A nice apartment near the centre #2', 'Great Stuido in the Green Heart of Vienna (49)', 'Modern Loft near Naschmarkt', "Private Room close 2 University & Vienna's Center"]
+
+GM Time of the test: Sun, 07 Jan 2018 14:16:51 GMT
+First test - compare all offers after going to another page (Become a Host Button)
+Result: Test Failed!
+First List Length: 18
+Second List Length: 18
+First List: ['Nice and cozy apartment for 2', 'Cozy studio apartment near Schönbrunn', 'Cosy and quiet apartment next to the Augarten', 'PINK & ROSA IN THE HISTORICAL CITY CENTER', 'Little Appartment Vienna', 'Sophie´s Place', 'Essential Bright Room in the City Center', 'Steiner Residences Apt. Monet (14)', 'Steiner Residences Apt. Picasso (13)', 'Bright & Cozy Room near Hauptbahnhof', 'Cosy room in city center #1', 'Gemütliche Wohnung Nähe Brunnenmarkt', 'Opera Super Central Room', 'Central Quiet Room', 'Spacious 20m2 Room In Top Location', "George's flat", 'A nice apartment near the centre #2', 'ROSA & PINK IN THE HISTORICAL CITY CENTER']
+Second List: ['Nice and cozy apartment for 2', 'Cosy and quiet apartment next to the Augarten', 'Little Appartment Vienna', 'PINK & ROSA IN THE HISTORICAL CITY CENTER', 'Steiner Residences Apt. Monet (14)', 'Cozy studio apartment near Schönbrunn', 'Oasis', 'Essential Bright Room in the City Center', 'Steiner Residences Apt. Picasso (13)', 'Great Stuido in the Green Heart of Vienna (49)', "George's flat", 'Cosy room in city center #1', 'Central Quiet Room', 'Gemütliche Wohnung Nähe Brunnenmarkt', 'A nice apartment near the centre #2', 'Centrally located room in Vienna', 'Sophie´s Place', "Private Room close 2 University & Vienna's Center"]
+
+GM Time of the test: Sun, 07 Jan 2018 14:16:56 GMT
+Second test - compare all offers after refreshing a webpage
+Result: Test Passed!
+First List Length: 18
+Second List Length: 18
+First List: ['Nice and cozy apartment for 2', 'Cosy and quiet apartment next to the Augarten', 'Little Appartment Vienna', 'PINK & ROSA IN THE HISTORICAL CITY CENTER', 'Steiner Residences Apt. Monet (14)', 'Cozy studio apartment near Schönbrunn', 'Oasis', 'Essential Bright Room in the City Center', 'Steiner Residences Apt. Picasso (13)', 'Great Stuido in the Green Heart of Vienna (49)', "George's flat", 'Cosy room in city center #1', 'Central Quiet Room', 'Gemütliche Wohnung Nähe Brunnenmarkt', 'A nice apartment near the centre #2', 'Centrally located room in Vienna', 'Sophie´s Place', "Private Room close 2 University & Vienna's Center"]
+Second List: ['Nice and cozy apartment for 2', 'Cosy and quiet apartment next to the Augarten', 'Little Appartment Vienna', 'PINK & ROSA IN THE HISTORICAL CITY CENTER', 'Steiner Residences Apt. Monet (14)', 'Cozy studio apartment near Schönbrunn', 'Oasis', 'Essential Bright Room in the City Center', 'Steiner Residences Apt. Picasso (13)', 'Great Stuido in the Green Heart of Vienna (49)', "George's flat", 'Cosy room in city center #1', 'Central Quiet Room', 'Gemütliche Wohnung Nähe Brunnenmarkt', 'A nice apartment near the centre #2', 'Centrally located room in Vienna', 'Sophie´s Place', "Private Room close 2 University & Vienna's Center"]
+
