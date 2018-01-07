@@ -1,11 +1,14 @@
 # QA_Airbnb_Test
 Automatic test example using Selenium + Python based on Airbnb website.
 
-Required to run: Chrome, Python, Selenium, Chrome Webdriver (linked in a code)
+Required to run: Chrome, Python, Selenium, Chrome Webdriver (provide a path in config file)
 
-Test 1: Save all listed offers after searching -> navigate to Become a host -> Host a home -> Go back -> Go forward -> Go back -> Save the new list of listed items. Compare. In the saved results we've length of both and whether they're listed in the same manner.
+To get Selenium: pip install Selenium
+To get Chrome Webdriver download from: https://sites.google.com/a/chromium.org/chromedriver/downloads
 
-Test 2: Save all listed offers after searching -> Refresh webpage -> Save the new list of listed items. Compare. In the saved results we've length of both and whether they're listed in the same manner.
+Test 1: Save all listed offers after searching -> navigate to Become a host -> Host a home -> Go back -> Go forward -> Go back -> Save the new list of listed items. Compare. In the saved results we've length of both and whether they're ordered in the same manner.
+
+Test 2: Save all listed offers after searching -> Refresh webpage -> Save the new list of listed items. Compare. In the saved results we've length of both and whether they're ordered in the same manner.
 
 Results are saved into txtfile with a time of a test.
 
