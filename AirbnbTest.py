@@ -13,7 +13,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 import os
 import time
-from .config import *
+import config
+
+
 
 opts = webdriver.ChromeOptions()
 opts.add_experimental_option("detach", True)
@@ -108,7 +110,7 @@ class AirbnbTest():
 
 
         baseUrl = "https://www.airbnb.com/"
-        driverLocation = chromeWebdriverLocation
+        driverLocation = config.chromeWebdriverLocation
         os.environ["webdriver.chrome.driver"] = driverLocation
         driver = webdriver.Chrome(executable_path=driverLocation, chrome_options=opts)
         driver.implicitly_wait(10)
