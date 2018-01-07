@@ -4,6 +4,7 @@ Automatic test example using Selenium + Python based on Airbnb website.
 Required to run: Chrome, Python, Selenium, Chrome Webdriver (provide a path in config file)
 
 To get Selenium: pip install Selenium
+
 To get Chrome Webdriver download from: https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 Test 1: Save all listed offers after searching -> navigate to Become a host -> Host a home -> Go back -> Go forward -> Go back -> Save the new list of listed items. Compare. In the saved results we've length of both and whether they're ordered in the same manner.
