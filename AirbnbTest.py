@@ -86,8 +86,10 @@ class AirbnbTest():
             result = ""
             if try1 == try2:
                 result = "Test Passed!"
+            elif set(try1) == set(try2):
+                result = "Test Failed! Room offers are the same but the order is incorrect."
             else:
-                result = "Test Failed!"
+                result = "Test Failed! Room offers are different."
             return result
 
 
