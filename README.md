@@ -1,4 +1,6 @@
 # QA_Airbnb_Test
+It's an awful one file big script which would need to be refactored
+
 Automatic test example using Selenium + Python based on Airbnb website.
 
 Required to run: Chrome, Python, Selenium, Chrome Webdriver (provide a path in config file)
