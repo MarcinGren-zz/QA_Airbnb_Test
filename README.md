@@ -1,5 +1,5 @@
 # QA_Airbnb_Test
-It's an awful one file big script which would need to be refactored
+## It's an awful one file big script which would need to be refactored if I had time 
 
 Automatic test example using Selenium + Python based on Airbnb website.
 
